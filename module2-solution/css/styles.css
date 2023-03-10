@@ -2,8 +2,8 @@
 * {
   box-sizing: border-box;
   font-family:'Comic Sans MS';
-  margin:0;
-  padding:0;
+  margin:0px;
+  padding:0px;
   font-size:100%;
 }
 
@@ -53,6 +53,7 @@ h1 {
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
+  padding:10px;
 }
 
 /********** Large devices only **********/
