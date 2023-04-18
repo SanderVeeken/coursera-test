@@ -1,0 +1,74 @@
+.navbar {
+    margin:0px;
+    padding:0px;
+    background-color:grey;
+    border:2px;
+    border-radius:0;
+    border-style:solid;
+    border-color:black;
+}
+
+
+.navbar-header {
+    margin:0px;
+    padding: 0px;
+}
+
+#nav-list {
+    padding:0px;
+    margin:0px;
+    background-color:rgb(197, 247, 168);
+    border:2px solid black;
+}
+
+.navbar > .container {
+    margin:0px;
+    padding:0px;
+}
+
+.navbar-brand {
+    padding:5px 0px 0px 20px;
+}
+
+h1 {
+    margin:0px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+#menu-title {
+    margin-top:20px;
+    margin-bottom:5px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    border-bottom: 2px solid black;
+    padding-left:0px;
+    padding-right:0px;
+    margin-left:-2px;
+    margin-right:-2px;
+    margin-bottom:-2px;
+}
+
+.menu-section {
+    padding:2% 4%;
+}
+
+.protein-choice {
+    margin:10px 0px;
+    padding-bottom: 5px;
+    color:black;
+}
+#chicken {
+    background-color:rgb(255, 246, 164)
+}
+
+#beef {
+    background-color:rgb(247, 79, 79);
+}
+
+#sushi {
+    background-color:rgb(164, 237, 255);
+}
+
